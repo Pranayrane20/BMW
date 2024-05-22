@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+    color: #fff;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    color: #fff;
+}
+
+.main{
+    height: 100%;
+    width: 100%;
+}
+#page1{
+    height: 100vh;
+    width: 100vw;
+    display: initial;
+}
+
+.logo-video{
+    height: 100vh;
+    width: 100vw;
+}
+
+.logo-video #video{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* //-------------------------------------- */
